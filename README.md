@@ -37,10 +37,6 @@ DMV-On Campus, CP Online-Webinar are reliable locations because our data shows t
 
 65% of the First Time Attendees come from GradBash, UMD Alumni Virtual Book Club, and Homecoming Tailgate events.
 
-An increase in Participation will generate more Major Prospects and First Time Attendees.
-
-Top 5 Group Codes with highest Major Prospects: PS9 (989 MP), PA9 (966 MP), PH9 (402 MP), PC9 (386 MP), and PHM (231 MP).
-
 From the perspective of total numbers, the most attractive days for First Time Attendees and Major Prospects are Saturday. The most popular month for First Time Attendees is April, while for Major Prospect is October, whose attendance is unmatched within all the other months.
 
 In terms of mean percentage of Major Prospects and First Time Attendees, September has the highest mean percentage for First Time Attendees and May for Major Prospects. In addition, Saturday has the highest mean proportion of First Time Attendees, and Thursday has the highest mean percentage of Major Prospects. However, there is not much difference between all the other days in attracting first time attendees.  
